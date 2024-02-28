@@ -1,1 +1,1 @@
-Esto es una prueba mod 2
+segundo ejercicio
